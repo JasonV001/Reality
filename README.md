@@ -50,13 +50,13 @@
 
 ```bash
 wget -O lvhy.sh https://raw.githubusercontent.com/JasonV001/Reality/main/lvhy.sh
-# 或
-# curl -fsSL -o lvhy.sh https://raw.githubusercontent.com/JasonV001/Reality/main/lvhy.sh
-
 chmod +x lvhy.sh
 sudo bash lvhy.sh
 ```
-
+```bash
+# 或
+# curl -fsSL -o lvhy.sh https://raw.githubusercontent.com/JasonV001/Reality/main/lvhy.sh
+```
 ### 2. 再次运行脚本
 
 ```bash
